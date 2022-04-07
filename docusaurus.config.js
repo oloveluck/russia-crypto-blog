@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ukraine Support Crypto Blog',
-  tagline: 'We need to decide on a name',
+  tagline: 'A Tech Blog In Support of Ukraine',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'oloveluck', // Usually your GitHub org/user name.
-  projectName: 'russia-ukraine-blog', // Usually your repo name.
+  projectName: 'russia-crypto-blog', // Usually your repo name.
 
   presets: [
     [
