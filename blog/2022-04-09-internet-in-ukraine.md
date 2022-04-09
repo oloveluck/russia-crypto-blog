@@ -2,7 +2,7 @@
 slug: internet-in-ukraine
 title: The Unbreakable Internet in Ukraine
 authors: evanritzcovan
-tags: [ukraine, internet]
+tags: [ukraine, russia, internet]
 ---
 
 One of the fascinating things about this conflict between Ukraine and Russia is that it’s among the first conflicts featuring widespread coverage all over social media. There have been thousands of viral videos coming out of Ukraine during this crisis. <!--truncate-->Here, [the Ukrainian band Antytila reached out to Ed Sheeran about a live stream during his charity performance](https://www.youtube.com/watch?v=2S8-c-qpv_Q). [This young girl was recorded singing “Let It Go” in a Ukrainian bomb shelter](https://twitter.com/Ankita20200/status/1500496884255051776). But many are wondering how exactly this is all possible. Shouldn’t the internet be offline in a warzone?
