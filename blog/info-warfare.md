@@ -1,6 +1,6 @@
 ---
 slug: info-warfare
-title: Russia's Information Warfare
+title: "Russia's Information Warfare: Past and Present"
 authors: jehaneali
 tags: [Russia, information warfare, disinformation]
 ---
@@ -21,3 +21,10 @@ It’s clear that Russia has a long, well-established history of relying on info
 
 Not only is Russia attempting to control the flow of information, they are also trying to push their own narrative. This has entailed painting Russia as ‘liberators’ to stop the ‘genocide’ of ethnic Russians in Ukraine. It aims to portray Russia as a haven of safety, security, and stability, while Ukraine is a chaotic, dangerous territory. However, this conflicts with the violence, death, and destruction that we have seen as the conflict has progressed. It’s clear that Russia is putting a significant amount of effort into their information warfare, and they are succeeding at it as well. At this point, no one is sure of the extent of Russian disinformation, or how powerful it will ultimately become, but increasing awareness around it is certainly a step in the right direction. 
 
+**Sources:**
+
+[A war on many fronts: disinformation around the Russia-Ukraine war](https://odi.org/en/insights/a-war-on-many-fronts-disinformation-around-the-russia-ukraine-war/)
+
+[In Russia-Ukraine war, social media stokes ingenuity, disinformation](https://mitsloan.mit.edu/ideas-made-to-matter/russia-ukraine-war-social-media-stokes-ingenuity-disinformation)
+
+[Russian Information Warfare: Implications for Deterrence Theory](https://www.jstor.org/stable/26481910)
