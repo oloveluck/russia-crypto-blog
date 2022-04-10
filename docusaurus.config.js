@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ukraine Support Crypto Blog',
+  title: 'Ukraine Technology News',
   tagline: 'A Tech Blog In Support of Ukraine',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ukrainetechblog.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,13 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/oloveluck/russia-crypto-blog/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/oloveluck/russia-crypto-blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,9 +42,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ukraine Crpyto Support Blog',
+        title: 'Ukraine Technology News',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Ukraine Technology News',
           src: 'img/logo.svg',
         },
         items: [
