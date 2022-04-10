@@ -13,6 +13,7 @@ That’s where Starlink comes in. [Starlink](https://en.wikipedia.org/wiki/Starl
 
 Overall the internet infrastructure in Ukraine has been shockingly resilient. The number of service providers across the country means there are fewer points of failure to target, and the fact that companies that generally compete are standing in solidarity together and repairing each other’s equipment is nothing short of commendable. But in places where Russia attempted to take over, the damage from the conflict has rendered many of the traditional methods of connecting to the internet unreliable or outright unusable. In these cases, Elon Musk’s Starlink has been a savior for thousands, connecting entire cities back to the grid and helping Ukraine fight back. And despite its shortcomings, Elon has pledged and followed through on updating and adapting the technology to suit the needs of the Ukrainian people best. As a result, I don’t see Starlink disappearing from the conversation when this conflict is over. On the contrary, it will be a developing force for years to come.
 
-Sources:
+**Sources:**
 [How Ukraine’s Internet still works despite Russian bombs, cyberattacks](https://www.washingtonpost.com/technology/2022/03/29/ukraine-internet-faq/) | 
+
 [Ukraine Now Using Over 10,000 Starlink Units to Keep Country Online](https://www.pcmag.com/news/ukraine-now-using-over-10000-starlink-units-to-keep-country-online)
