@@ -17,7 +17,8 @@ const FeatureList = [
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        TODO
+        Russia has a well-documented history of using information warfare against other nations -
+	as a result, the current Russia-Ukraine war has been characterized by widespread disinformation.
       </>
     ),
   },
