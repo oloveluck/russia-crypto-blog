@@ -2,7 +2,7 @@
 slug: info-warfare
 title: "Russia's Information Warfare: Past and Present"
 authors: jehaneali
-tags: [russia, information warfare, disinformation]
+tags: [russia, ukraine, information warfare, disinformation]
 ---
 
 Information warfare is a phrase that’s being thrown around more and more frequently lately, especially as Russia continues to take action against Ukraine. But what exactly is information warfare? 
