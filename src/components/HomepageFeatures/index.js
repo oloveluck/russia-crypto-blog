@@ -8,7 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/bitcoin-btc-logo.svg').default,
     description: (
       <>
-        Exploring the relationship between Bitcoin, blockchain, and the Russian invasion of Ukraine.
+        Many experts expected the next war to be one of digital nature, so it's important to explore the
+	relationship between blockchain, cryptocurrencies, and the Russian invasion of Ukraine.
       </>
     ),
   },
