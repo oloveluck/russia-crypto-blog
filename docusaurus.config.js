@@ -66,11 +66,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Links',
             items: [
               {
-                label: 'Intro',
+                label: 'Welcome',
                 to: '/docs/intro',
+              },
+	      {
+		label: 'Donate',
+		to: '/docs/help',
+	      },
+	      {
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
@@ -95,17 +103,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/oloveluck/russia-crypto-blog',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Owen Loveluck. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Owen Loveluck, Evan Ritzcovan, Jehane Ali, Cathleen Zhang. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
