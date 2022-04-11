@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/bitcoin-btc-logo.svg').default,
     description: (
       <>
-        Many experts expected the next war to be one of digital nature, so it's important to explore the
+        Many experts expected the next war to be one of a digital nature, so it's important to explore the
 	relationship between blockchain, cryptocurrencies, and the Russian invasion of Ukraine.
       </>
     ),
@@ -28,8 +28,8 @@ const FeatureList = [
     Svg: require('@site/static/img/Starlink_Logo.svg').default,
     description: (
       <>
-        With many Internet service centers across the country destroyed, Ukrainians
-	have resorted to alternative methods of connecting to the web.
+        With many Internet service centers across the country destroyed in bomb strikes, Ukrainians
+	have resorted to new alternative methods of connecting to the web.
       </>
     ),
   },
