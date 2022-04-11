@@ -4,31 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Crypto News',
     Svg: require('@site/static/img/bitcoin-btc-logo.svg').default,
     description: (
       <>
-        Discussion about the relationship between Bitcoin, blockchain, and the Russian invasion of Ukraine
+        Exploring the relationship between Bitcoin, blockchain, and the Russian invasion of Ukraine.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Social Media Analysis',
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        TODO
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Internet Status',
     Svg: require('@site/static/img/Starlink_Logo.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        With many Internet service centers across the country destroyed, Ukrainians
+	have resorted to alternative methods of connecting to the web.
       </>
     ),
   },
