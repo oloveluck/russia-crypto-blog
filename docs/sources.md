@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-**Annotated Bibliography**
+# Annotated Bibliography
 
-**Thesis Statement: **
+**Thesis Statement:**
 
 The advancement and widespread availability of technology has created an environment for the Russia-Ukraine war that is unlike anything seen in the past. This conflict is being fought on a brand new playing field, and our project aims to provide an in-depth explanation of some of those tech issues.  
 
