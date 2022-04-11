@@ -106,6 +106,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/oloveluck/russia-crypto-blog',
               },
+	      {
+		label: 'Sources',
+		to: '/docs/sources',
+	      },
             ],
           },
         ],

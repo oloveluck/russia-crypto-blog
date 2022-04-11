@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Annotated Bibliography
+# Annotated bibliography
 
 **Thesis Statement:**
 
