@@ -18,3 +18,7 @@ Overall the internet infrastructure in Ukraine has been shockingly resilient. Th
 [How Ukraine’s Internet still works despite Russian bombs, cyberattacks](https://www.washingtonpost.com/technology/2022/03/29/ukraine-internet-faq/)
 
 [Ukraine Now Using Over 10,000 Starlink Units to Keep Country Online](https://www.pcmag.com/news/ukraine-now-using-over-10000-starlink-units-to-keep-country-online)
+
+[Interview with Alex Bornyakov, Ukraine Deputy Minister of Digital Transformation](https://www.youtube.com/watch?v=bLDlSL1zbUc)
+
+[All quiet on the cyber front: Ukraine's internet infrastructure remains resilient • FRANCE 24](https://www.youtube.com/watch?v=snbxs77To0o)
